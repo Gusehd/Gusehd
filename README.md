@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gusehd
-- 📫 car991231@gmail.com
+- 📫 email : car991231@gmail.com
 
 <!---
 Gusehd/Gusehd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
