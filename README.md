@@ -32,7 +32,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=car991231)](https://solved.ac/car991231/)<br><br>
 
 ## :hamster: Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&layout=compact&theme=buefy)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&langs_count=5&layout=compact&theme=buefy)](https://github.com/gusehd/gusehd)<br><br>
+
+
 
 ## :tiger: My Game and Tech blog
   <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
