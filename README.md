@@ -38,6 +38,10 @@
 
 ## :tiger: My Game and Tech blog
   <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
+<br><br>
+
+
+## :penguin: Project
 
 <!---
 Gusehd/Gusehd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
