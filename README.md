@@ -35,14 +35,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&langs_count=5&layout=compact&theme=buefy)](https://github.com/gusehd/gusehd)<br><br>
 
 
-
-## :tiger: My Game and Tech blog
-  <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
+## :penguin: Project
+- 다양한 축구 데이터의 통계와 시각화 ( Aug. 2021 ~ Present , 개인 블로그에 업로드 중 )
+- K-Means Clustering을 활용한 축구선수 Scouting process ( Sep. 2021 ~ Dec. 2021 )
+- MIDI 데이터를 기반으로 한 딥러닝 기반의 작곡 , 편곡 AI (Mar. 2022 ~ Present) (Not yet on github)
 <br><br>
 
 
-## :penguin: Project
-
+## :tiger: My Game and Tech blog
+  <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
+  
 <!---
 Gusehd/Gusehd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
