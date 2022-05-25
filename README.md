@@ -38,7 +38,7 @@
 ## :penguin: Project
 -  <a href ="https://github.com/Gusehd/Soccer-data-statistical-analysis">다양한 축구 데이터의 통계와 시각화</a> ( Aug. 2021 ~ Present , 개인 블로그에 업로드 중 )
 -  <a href ="https://github.com/Gusehd/FootBall_K_Means_Clustering">K-Means Clustering을 활용한 축구선수 Scouting process</a> ( Sep. 2021 ~ Dec. 2021 )
--  <a href ="https://github.com/Capstonedesign0/AI-Composer">MIDI 데이터를 기반으로 한 딥러닝 기반의 작곡 AI-Composer (Mar. 2022 ~ Present)</a>
+-  <a href ="https://github.com/Capstonedesign0/AI-Composer">MIDI 데이터를 기반으로 한 딥러닝 기반의 작곡 AI-Composer</a> (Mar. 2022 ~ Present)
 <br><br>
 
 ## :tiger: My Game and Tech blog
