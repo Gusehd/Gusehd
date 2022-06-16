@@ -40,7 +40,7 @@
 -  <a href ="https://github.com/Gusehd/FootBall_K_Means_Clustering">K-Means Clustering을 활용한 축구선수 Scouting process</a> ( Sep. 2021 ~ Dec. 2021 )
 -  <a href ="https://github.com/Capstonedesign0/AI-Composer">MIDI 데이터를 기반으로 한 딥러닝 기반의 작곡 AI-Composer</a> (Mar. 2022 ~ Present)
 -  <a href ="https://github.com/Gusehd/Rhyme-lyricist-with-KoGPT2">KoGPT-2 기반의 라임을 고려한 가사 생성 AI 모델</a>
--  <a href ="https://github.com/Gusehd/FIND-DUST_-Game-">FIND DUST (퍼즐 게임 / 서강대학교 MTEC 주최 게임공모전 우수상 / Gamemaker Studio 2)</a>
+-  <a href ="https://github.com/Gusehd/FIND-DUST_-Game-">FIND DUST</a> (퍼즐 게임 / 서강대학교 MTEC 주최 고교생 게임공모전 우수상 / Gamemaker Studio 2)
 -  <a href ="https://github.com/Gusehd/Starcraft_build_timer-Toy_Project">스타크래프트 1 빌드 최적화용 타이머 Tool</a> ( Toy project )
 -  <a href ="https://github.com/Gusehd/Steam_Trending_Game_Recommendation-Toy_Project">스팀 트렌드 게임 랜덤 추천기</a> ( Toy project )
 <br><br>
