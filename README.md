@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/PyTorch-711A75?style=flat-square&logo=PyTorch&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/R-F10086?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Algorithm-F582A7?style=flat-square&logo=The Algorithms&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/OpenCV-FDEFF4?style=flat-square&logo=OpenCV&logoColor=black"/></a><br><br>
+  <img src="https://img.shields.io/badge/HCI-FDEFF4?style=flat-square&logo=Circle&logoColor=black"/></a><br><br>
 
 - #### :joy_cat: Tried (used at least once)
   <img src="https://img.shields.io/badge/MySQL-9ADCFF?style=flat-square&logo=MySQL&logoColor=black"/></a>
