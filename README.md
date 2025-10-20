@@ -60,7 +60,7 @@ Yonsei University
   - (2022.01 - Present) [SW Expert Academy 문제풀이](https://ddggblog.tistory.com/category/%EC%BD%94%EB%94%A9/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 ## Project
-  -
+  - 다양한 축구 데이터의 통계와 시각화(https://ddggblog.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/%EC%B6%95%EA%B5%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%20%EB%B6%84%EC%84%9D?page=1)
 
 ## My Game and Tech blog
   <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
