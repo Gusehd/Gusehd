@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C&logoColor=white"/></a><br><br>
 
-- #### :smiley_cat: Interest
+<!-- - #### :smiley_cat: Interest-->
   <img src="https://img.shields.io/badge/Scikit_learn-F7E2E2?style=flat-square&logo=scikit-learn&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/SciPy-61A4BC?style=flat-square&logo=SciPy&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Scala-5B7DB1?style=flat-square&logo=Scala&logoColor=white"/></a>
