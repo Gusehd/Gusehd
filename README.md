@@ -34,8 +34,8 @@ Yonsei University
 - (2025.02) Invited Talk at *Top Conference Program Session of HCIK 2025* (Hongcheon, Republic of Korea)
 
 ## Interest
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&langs_count=5&layout=compact&theme=buefy)](https://github.com/gusehd/gusehd)
-- Languages 
+- Languages
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&langs_count=5&layout=compact&theme=buefy)](https://github.com/gusehd/gusehd)
   - Python  
   - C / C++  
   - C#  
