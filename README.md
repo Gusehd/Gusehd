@@ -7,6 +7,15 @@
   - (2023.03 - 2025.02) 연세대학교 컴퓨터과학과 석사
   - (2025.03 - Present) 연세대학교 컴퓨터과학과 박사 과정
 
+## Publications
+- **Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload**  
+  *First Author*, CHI 2024 (Honorable Mention Award — Top 5% Best Paper)
+- Hardware-Embedded Pointing Transfer Function Capable of Canceling OS Gains (CHI 2025)
+
+
+## Activity
+  - (2019 - 2023) 서울과학기술대학교 컴퓨터공학과 동아리 Endless Creation
+  - 
 
 
 ## :rabbit: Tech Stack
