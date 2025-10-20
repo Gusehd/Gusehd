@@ -35,12 +35,12 @@ Yonsei University
 
 ## Interest
 - Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&langs_count=5&layout=compact&theme=buefy)](https://github.com/gusehd/gusehd)
   - Python  
   - C / C++  
   - C#  
   - R  
-  - MATLAB  
+  - MATLAB
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&langs_count=5&layout=compact&theme=buefy)](https://github.com/gusehd/gusehd)
 
 - Tools & Platforms
   - Unity  
