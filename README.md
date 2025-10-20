@@ -20,6 +20,14 @@
   - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab
   - (2024.11 - Present) YesLab Inc. (스타트업 예스랩)
 
+## Awards and Honors
+- (2016.08) 서강대학교 MTEC 주최 전국 고교생 게임아이디어 공모전 개발부문 우수상
+- (2021.07) 서울과학기술대학교 우수성적 장학금 (4.0/4.5)
+- (2022.12) 서울과학기술대학교 캡스톤디자인 우수상
+- (2024.05) CHI 2024 Honorable Mention Award
+- (2024.12) Yonsei Dissertation Fellowship: 연세대학교 우수 학위논문 우수상
+- (2025.05) BK21 우수 대학원생 국제 공동연수 지원 대상자 선정
+
 ## Teaching Assistant
 Yonsei University
   - Esports Performance Engineering (2023 Spring)  
@@ -51,8 +59,14 @@ Yonsei University
 - (2021.08 - Present) [백준 문제풀이](https://ddggblog.tistory.com/category/%EC%BD%94%EB%94%A9/%EB%B0%B1%EC%A4%80?page=1)
 - (2022.01 - Present) [SW Expert Academy 문제풀이](https://ddggblog.tistory.com/category/%EC%BD%94%EB%94%A9/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
+## Project
 
 
+## My Game and Tech blog
+  <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
+  
+
+<!--
 ## :rabbit: Tech Stack
 
 - #### :heart_eyes_cat: Familiar
@@ -80,7 +94,7 @@ Yonsei University
 <br><br>
 
 ## :tiger: My Game and Tech blog
-  <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
+  <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a> --->
   
 <!---
 Gusehd/Gusehd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
