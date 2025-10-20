@@ -20,6 +20,15 @@
   - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab
   - (2024.11 - Present) YesLab Inc. (스타트업 예스랩)
 
+## Teaching Assistant
+Yonsei University
+  - Esports Performance Engineering (2023 Spring)  
+  - AI Programming (2023 Spring)  
+  - Human and Computer Interfaces (2023 Fall)  
+  - AI Programming (2024 Spring)  
+  - AI Programming (2025 Spring)
+
+
 
 ## :rabbit: Tech Stack
 
