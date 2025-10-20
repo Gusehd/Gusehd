@@ -33,7 +33,17 @@ Yonsei University
   *Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload*  
 - (2025.02) Invited Talk at *Top Conference Program Session of HCIK 2025* (Hongcheon, Republic of Korea)
 
+## Interest
+- Languages 
+  - Python  
+  - C / C++  
+  - C#  
+  - R  
+  - MATLAB  
 
+- Tools & Platforms
+  - Unity  
+  - Arduino
 
 ## :rabbit: Tech Stack
 
