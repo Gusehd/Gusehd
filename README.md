@@ -17,6 +17,7 @@
 ## Activity
   - (2019 - 2023) 서울과학기술대학교 컴퓨터공학과 동아리 Endless Creation
   - (2021.08 - 2022.05) 초·중·고등학생 대상 프로그래밍 강사 (미사 에듀)
+  - (2022.07 - 2022.08) 연세대학교 Esports & High-Performance Human-Computer Interaction Lab 인턴
   - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab
   - (2024.11 - Present) YesLab Inc. (스타트업 예스랩)
 
@@ -60,8 +61,14 @@ Yonsei University
   - (2022.01 - Present) [SW Expert Academy 문제풀이](https://ddggblog.tistory.com/category/%EC%BD%94%EB%94%A9/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 ## Project
-  - 다양한 축구 데이터의 통계와 시각화(https://ddggblog.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/%EC%B6%95%EA%B5%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%20%EB%B6%84%EC%84%9D?page=1)
-
+  - [다양한 축구 데이터의 통계와 시각화](https://ddggblog.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/%EC%B6%95%EA%B5%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%20%EB%B6%84%EC%84%9D?page=1)
+  - K-Means Clustering을 활용한 축구선수 Scouting Process
+  - MIDI 데이터를 기반으로 한 딥러닝 기반의 작곡 AI-Composer
+  - KoGPT-2 기반의 라임을 고려한 가사 생성 AI 모델
+  - FIND DUST (PC 퍼즐게임)
+  - 스타크래프트 1 빌드 최적화용 타이머 (Toy Project)
+  - 스팀 트렌드 게임 랜덤 추천기 (Toy Project)
+  
 ## My Game and Tech blog
   <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
   
