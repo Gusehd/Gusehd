@@ -1,6 +1,6 @@
 👋 Hi, I’m Donghyeon Kang.
 
-📫 [E-mail] (car991231@gmail.com) <br><br>
+📫 [E-mail] car991231​@gmail.com
 
 ## :rabbit: Tech Stack
 
