@@ -28,6 +28,11 @@ Yonsei University
   - AI Programming (2024 Spring)  
   - AI Programming (2025 Spring)
 
+## Talks and Presentations
+- (2024.05) Paper Presentation at *CHI 2024* (Honolulu, Hawaii)  
+  *Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload*  
+- (2025.02) Invited Talk at *Top Conference Program Session of HCIK 2025* (Hongcheon, Republic of Korea)
+
 
 
 ## :rabbit: Tech Stack
