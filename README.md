@@ -2,6 +2,13 @@
 
 📫 [E-mail] car991231​@gmail.com
 
+## Education
+  - (2019.03 ~ 2023.02) 서울과학기술대학교 컴퓨터공학과
+  - (2023.03 ~ 2025.02) 연세대학교 컴퓨터과학과 석사
+  - (2025.03 ~ Present) 연세대학교 컴퓨터과학과 박사 과정
+
+
+
 ## :rabbit: Tech Stack
 
 - #### :heart_eyes_cat: Familiar
@@ -10,8 +17,9 @@
   <img src="https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C&logoColor=white"/></a><br><br
   
 
-## :dog: Algorithm
+## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=car991231)](https://solved.ac/car991231/)<br><br>
+- 
 
 ## :hamster: Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&langs_count=5&layout=compact&theme=buefy)](https://github.com/gusehd/gusehd)<br><br>
