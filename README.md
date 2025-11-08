@@ -68,6 +68,8 @@ Yonsei University
   - FIND DUST (PC 퍼즐게임)
   - 스타크래프트 1 빌드 최적화용 타이머 (Toy Project)
   - 스팀 트렌드 게임 랜덤 추천기 (Toy Project)
+  - 손목 움직임 데이터를 생성하는 전자 장치 및 그 동작 방법 (CHI 2024, 특허 출원중)
+  - 모바일 사용자 분석을 위한 게임 기반 UX 및 성능 지표 수집 도구 (Unity-based, On going research)
   
 ## My Game and Tech blog
   <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
