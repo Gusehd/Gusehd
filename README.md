@@ -8,12 +8,10 @@
   - (2025.03 - Present) 연세대학교 컴퓨터과학과 박사 과정
 
 ## Publications
-- **Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload**  
-  *First Author*, CHI 2024 (🥇 Honorable Mention Award — Top 5% Best Paper)
-- **Hardware-Embedded Pointing Transfer Function Capable of Canceling OS Gains**  
-  CHI 2025
-- **"Do I Really Need This?": Illuminating Challenges in Integrating Computational Training Tools in Esports Coaching**  
-  CHI 2026
+- **[CHI 2024] Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload**  
+  *First Author*, (🥇 Honorable Mention Award — Top 5% Best Paper)
+- **[CHI 2025] Hardware-Embedded Pointing Transfer Function Capable of Canceling OS Gains**  
+- **[CHI 2026] "Do I Really Need This?": Illuminating Challenges in Integrating Computational Training Tools in Esports Coaching**  
 
 
 ## Activity
