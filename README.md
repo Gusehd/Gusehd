@@ -11,7 +11,9 @@
 - **Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload**  
   *First Author*, CHI 2024 (🥇 Honorable Mention Award — Top 5% Best Paper)
 - **Hardware-Embedded Pointing Transfer Function Capable of Canceling OS Gains**  
-  *4th Author*, CHI 2025
+  CHI 2025
+- **"Do I Really Need This?": Illuminating Challenges in Integrating Computational Training Tools in Esports Coaching**  
+  CHI 2026
 
 
 ## Activity
