@@ -3,9 +3,9 @@
 📫 [E-mail] car991231​@gmail.com
 
 ## Education
-  - (2019.03 - 2023.02) 서울과학기술대학교 컴퓨터공학과
-  - (2023.03 - 2025.02) 연세대학교 컴퓨터과학과 석사
-  - (2025.03 - Present) 연세대학교 컴퓨터과학과 박사 과정 (휴학)
+  - (2019.03 - 2023.02) #서울과학기술대학교 컴퓨터공학과
+  - (2023.03 - 2025.02) #연세대학교 컴퓨터과학과 석사
+  - (2025.03 - Present) #연세대학교 컴퓨터과학과 박사 과정 (휴학)
 
 ## Publications
 - **[CHI 2024] Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload**  
