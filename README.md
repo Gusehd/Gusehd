@@ -44,16 +44,9 @@ Yonsei University
 
 ## Interest
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusehd&langs_count=5&layout=compact&theme=buefy)](https://github.com/gusehd/gusehd) -->
-- Languages
-  - Python  
-  - C / C++  
-  - C#  
-  - R  
-  - MATLAB
-
-- Tools & Platforms
-  - Unity  
-  - Arduino
+- HCI / HRI
+- AI
+- Robotics  
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=car991231)](https://solved.ac/car991231/)
