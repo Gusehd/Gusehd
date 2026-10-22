@@ -73,6 +73,9 @@ Yonsei University
   - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab, Yonsei University (On leave)<!--Esports & High-Performance Human-Computer Interaction Lab (휴학)-->
   - (2024.11 - 2026.01) YesLab Inc. (Startup)<!--YesLab Inc. (스타트업 예스랩)-->
   - (2026.01 - Presnet) Wonik Robotics AX Team
+
+
+
 --->
   
 
