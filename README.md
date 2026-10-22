@@ -20,11 +20,10 @@
   - (2022.07 - 2022.08) Intern, Esports & High-Performance Human-Computer Interaction Lab, Yonsei University<!--연세대학교 Esports & High-Performance Human-Computer Interaction Lab 인턴-->
   - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab, Yonsei University (On leave)<!--Esports & High-Performance Human-Computer Interaction Lab (휴학)-->
   - (2024.11 - 2026.01) YesLab Inc. (Startup)<!--YesLab Inc. (스타트업 예스랩)-->
-  - (2026.01 - Presnet) Wonik Robotics AX Team
--->
+  - (2026.01 - Presnet) Wonik Robotics AX Team -->
 
 ## Experience
-- (2023.02 - Present) Graduate Researcher, Esports & High-Performance HCI Lab, Yonsei University (On leave)
+- (2023.02 - Present) Graduate Researcher, High-Performance Human-Computer Interaction Lab, Yonsei University (On leave)
 - (2024.11 - 2026.01) Research / Software Engineer, YesLab Inc.
 - (2026.01 - Present) Research Engineer, AX Team, Wonik Robotics
 
