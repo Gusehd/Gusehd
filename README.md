@@ -13,16 +13,6 @@
 - **[CHI 2025] Hardware-Embedded Pointing Transfer Function Capable of Canceling OS Gains**  
 - **[CHI 2026] "Do I Really Need This?": Illuminating Challenges in Integrating Computational Training Tools in Esports Coaching**  
 
-<!---
-## Activity
-  - (2019.03 - 2023.02) Endless Creation, Dept. of Computer Science and Engineering Club, SeoulTech<!--서울과학기술대학교 컴퓨터공학과 동아리 Endless Creation-->
-  - (2021.08 - 2022.05) Programming Instructor (Olympiad in Informatics Lectures for Elementary & Middle School Students)<!--초·중·고등학생 대상 프로그래밍 강사 (미사 에듀)-->
-  - (2022.07 - 2022.08) Intern, Esports & High-Performance Human-Computer Interaction Lab, Yonsei University<!--연세대학교 Esports & High-Performance Human-Computer Interaction Lab 인턴-->
-  - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab, Yonsei University (On leave)<!--Esports & High-Performance Human-Computer Interaction Lab (휴학)-->
-  - (2024.11 - 2026.01) YesLab Inc. (Startup)<!--YesLab Inc. (스타트업 예스랩)-->
-  - (2026.01 - Presnet) Wonik Robotics AX Team
---->
-
 ## Experience
 - (2023.02 - Present) Graduate Researcher, High-Performance Human-Computer Interaction Lab, Yonsei University (On leave)
 - (2024.11 - 2026.01) Research / Software Engineer, YesLab Inc.
@@ -75,6 +65,14 @@ Yonsei University
   
 ## My Game and Tech blog
   <a href = "https://ddggblog.tistory.com/"><img src="https://img.shields.io/badge/DDGG Blog-BB9981?style=flat-square&logo=Storyblok&logoColor=white"/></a></a>
+
+## Activity
+  - (2019.03 - 2023.02) Endless Creation, Dept. of Computer Science and Engineering Club, SeoulTech<!--서울과학기술대학교 컴퓨터공학과 동아리 Endless Creation-->
+  - (2021.08 - 2022.05) Programming Instructor (Olympiad in Informatics Lectures for Elementary & Middle School Students)<!--초·중·고등학생 대상 프로그래밍 강사 (미사 에듀)-->
+  - (2022.07 - 2022.08) Intern, Esports & High-Performance Human-Computer Interaction Lab, Yonsei University<!--연세대학교 Esports & High-Performance Human-Computer Interaction Lab 인턴-->
+  - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab, Yonsei University (On leave)<!--Esports & High-Performance Human-Computer Interaction Lab (휴학)-->
+  - (2024.11 - 2026.01) YesLab Inc. (Startup)<!--YesLab Inc. (스타트업 예스랩)-->
+  - (2026.01 - Presnet) Wonik Robotics AX Team
 --->
   
 
