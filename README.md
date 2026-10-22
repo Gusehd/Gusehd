@@ -20,15 +20,16 @@
   - (2022.07 - 2022.08) Intern, Esports & High-Performance Human-Computer Interaction Lab, Yonsei University<!--연세대학교 Esports & High-Performance Human-Computer Interaction Lab 인턴-->
   - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab, Yonsei University (On leave)<!--Esports & High-Performance Human-Computer Interaction Lab (휴학)-->
   - (2024.11 - 2026.01) YesLab Inc. (Startup)<!--YesLab Inc. (스타트업 예스랩)-->
+  - (2026.01 - Presnet) Wonik Robotics AX Team
 
 
 ## Awards and Honors
-- (2016.08) <!--서강대학교 MTEC 주최 전국 고교생 게임아이디어 공모전 개발부문 우수상-->
-- (2021.07) <!--서울과학기술대학교 우수성적 장학금 (4.0/4.5)-->
-- (2022.12) <!--서울과학기술대학교 캡스톤디자인 우수상-->
-- (2024.05) <!--CHI 2024 Honorable Mention Award-->
-- (2024.12) <!--Yonsei Dissertation Fellowship: 연세대학교 우수 학위논문 우수상-->
-- (2025.05) <!--BK21 우수 대학원생 국제 공동연수 지원 대상자 선정-->
+- (2016.08) Excellence Award (Development Division), National High School Game Idea Competition, Sogang University MTEC<!--서강대학교 MTEC 주최 전국 고교생 게임아이디어 공모전 개발부문 우수상-->
+- (2021.07) Academic Excellence Scholarship (GPA: 4.0/4.5), SeoulTech<!--서울과학기술대학교 우수성적 장학금 (4.0/4.5)-->
+- (2022.12) Excellence Award in Capstone Design, SeoulTech<!--서울과학기술대학교 캡스톤디자인 우수상-->
+- (2024.05) Honorable Mention Award (Top 5%), ACM CHI 2024<!--CHI 2024 Honorable Mention Award-->
+- (2024.12) Excellence Award, Yonsei Dissertation Fellowship (Outstanding Master's Thesis Award), Yonsei University<!--Yonsei Dissertation Fellowship: 연세대학교 우수 학위논문 우수상-->
+- (2025.05) Selected for BK21 Outstanding Graduate Student International Joint Training Program<!--BK21 우수 대학원생 국제 공동연수 지원 대상자 선정-->
 
 ## Teaching Assistant
 Yonsei University
