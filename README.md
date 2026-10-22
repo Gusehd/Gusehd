@@ -3,9 +3,9 @@
 📫 [E-mail] car991231​@gmail.com
 
 ## Education
-  - (2019.03 - 2023.02) #서울과학기술대학교 컴퓨터공학과
-  - (2023.03 - 2025.02) #연세대학교 컴퓨터과학과 석사
-  - (2025.03 - Present) #연세대학교 컴퓨터과학과 박사 과정 (휴학)
+  - (2019.03 - 2023.02) B.S. in Computer Science and Engineering, Seoul National University of Science and Technology (SeoulTech) <!-- 서울과학기술대학교 컴퓨터공학과 -->
+  - (2023.03 - 2025.02) M.S. in Computer Science, Yonsei University <!-- 연세대학교 컴퓨터과학과 석사 -->
+  - (2025.03 - Present) Ph.D. Student in Computer Science, Yonsei University (On a leave of absence) <!-- 연세대학교 컴퓨터과학과 박사 과정 (휴학) -->
 
 ## Publications
 - **[CHI 2024] Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload**  
@@ -15,11 +15,11 @@
 
 
 ## Activity
-  - (2019 - 2023) 서울과학기술대학교 컴퓨터공학과 동아리 Endless Creation
-  - (2021.08 - 2022.05) 초·중·고등학생 대상 프로그래밍 강사 (미사 에듀)
-  - (2022.07 - 2022.08) 연세대학교 Esports & High-Performance Human-Computer Interaction Lab 인턴
-  - (2023.02 - Present) Esports & High-Performance Human-Computer Interaction Lab (휴학)
-  - (2024.11 - 2026.01) YesLab Inc. (스타트업 예스랩)
+  - (2019 - 2023) <!--서울과학기술대학교 컴퓨터공학과 동아리 Endless Creation-->
+  - (2021.08 - 2022.05) <!--초·중·고등학생 대상 프로그래밍 강사 (미사 에듀)-->
+  - (2022.07 - 2022.08) <!--연세대학교 Esports & High-Performance Human-Computer Interaction Lab 인턴-->
+  - (2023.02 - Present) <!--Esports & High-Performance Human-Computer Interaction Lab (휴학)-->
+  - (2024.11 - 2026.01) <!--YesLab Inc. (스타트업 예스랩)-->
 
 ## Awards and Honors
 - (2016.08) 서강대학교 MTEC 주최 전국 고교생 게임아이디어 공모전 개발부문 우수상
